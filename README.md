@@ -3,7 +3,7 @@ BiPNet for Session-based Recommendation.
 
 This is the source code of our paper under review.
 
-Environments: Python3, Pytorch 1.9.1, Numpy 1.19.2
+Environments: Python3, Pytorch 1.9.1, Numpy 1.19.2. You can also create the envariment as we used by 'requirements.txt' or 'bipnet_env.yaml'.
 
 Download path of original datasets:
 
